@@ -1,4 +1,4 @@
-# Open-Classrooms-Second-Projet-Booki
+# Open-Classrooms-Second-Projet-Reservia
 
 Reservia est le second projet du parcours de Développeur Web proposé par l'organisme de formation Open Classrooms. Ceci est une version améliorée du projet de base, j'espère que vous apprécierez la visite !
 
